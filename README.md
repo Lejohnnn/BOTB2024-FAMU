@@ -10,10 +10,10 @@ The name of our project is Huddle Haven, an AI-driven NFL+ enhancement solution.
 - Post-replay AI experience
 
 
-Installation:
+Setup and Installation Instructions:
 - Clone the Repository: `git clone https://github.com/Lejohnnn/BOTB2024-FAMU`
 - Navigate to the main project file: `cd BOTB2024-FAMU`
 
-Usage:
-- Import the main dataset `Full_PBP_Data.csv`
+How to Run the Project:
+- Import the main dataset `Full_PBP_Data.csv`, rename as `game_data.csv`
 - Run the application: `python BOTB2024-FAMU.py`
