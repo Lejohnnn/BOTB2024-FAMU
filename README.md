@@ -1,21 +1,19 @@
-# BOTB2024-FAMU
-Battle of the Brains Repository for Florida A&amp;M University
+Battle of the Brains Repository for Florida A&M University
 
-The contents within this repository relate to Florida A&M University's Battle of the Brains solution. 
+The contents within this repository relate to Florida A&M University's Battle of the Brains solution.
 
-Project Overview- Project Name and Brief Description
-The name of our project is Huddle Haven, a AI driven NFL+ enhancement solution. In order to achieve this our team focused on increasing fan engagment through features such as:
+Project Overview:
+The name of our project is Huddle Haven, an AI-driven NFL+ enhancement solution. Our team focused on increasing fan engagement through features such as:
 
-- live play predictions
-  
-- incentative point system + leaderboard system
-  
-- post replay AI experience
+- Live play predictions
+- Incentive point system + leaderboard system
+- Post-replay AI experience
+
 
 Installation:
-- Clone the Repository `git clone https://github.com/Lejohnnn/BOTB2024-FAMU`
-- Navigate to main project file: `cd BOTB2024-FAMU.py`
+- Clone the Repository: `git clone https://github.com/Lejohnnn/BOTB2024-FAMU`
+- Navigate to the main project file: `cd BOTB2024-FAMU`
 
 Usage:
-- Import main dataset `Full_PBP_Data.csv`
+- Import the main dataset `Full_PBP_Data.csv`
 - Run the application: `python BOTB2024-FAMU.py`
